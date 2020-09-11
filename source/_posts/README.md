@@ -1,14 +1,12 @@
 ---
 title: ADB命令大全(转)
 categories: 
-- 安卓开发
+- Android基础
 tags:
 - Android
 - ADB
 - 命令行
 ---
-# ![Awesome Adb](./assets/title.png)
-
 ADB，即 [Android Debug Bridge](https://developer.android.com/studio/command-line/adb.html)，它是 Android 开发/测试人员不可替代的强大工具，也是 Android 设备玩家的好玩具。
 
 持续更新中，欢迎提 PR 和 Issue 补充指正，觉得有用的可以将 [此 GitHub 仓库](https://github.com/mzlogin/awesome-adb) Star 收藏备用。

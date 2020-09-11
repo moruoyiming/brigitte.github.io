@@ -1,7 +1,8 @@
 ---
 title: JNI 串口通讯库 SerialPort开发封装
+thumbnail: /gallery/thumbnails/desert.jpg
 categories: 
-- 安卓开发
+- Android基础
 tags:
 - Android
 - 串口通讯

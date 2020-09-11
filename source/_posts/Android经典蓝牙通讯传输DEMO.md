@@ -1,7 +1,8 @@
 ---
 title: Android 经典蓝牙通讯传输Demo
+thumbnail: /gallery/thumbnails/sculpture.jpg
 categories: 
-- 安卓开发
+- Android基础
 tags:
 - Android
 - 蓝牙开发

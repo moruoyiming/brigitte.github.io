@@ -2,7 +2,7 @@
 title: Android 项目中so文件丢失
 thumbnail: /gallery/thumbnails/plant.jpg
 categories: 
-- 安卓开发
+- Android基础
 tags:
 - Android
 - so文件

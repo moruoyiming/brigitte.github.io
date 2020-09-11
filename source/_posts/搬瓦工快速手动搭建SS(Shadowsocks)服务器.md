@@ -1,7 +1,7 @@
 ---
 
 title: 快速手动搭建SS服务器简明详细教程
-thumbnail: /gallery/thumbnails/desert.jpg
+thumbnail: /gallery/thumbnails/sculpture.jpg
 
 categories: 
 
@@ -232,6 +232,5 @@ chmod +x bbr.sh
 再访问一下 Youtube，1080p 超高清，很顺畅不卡顿！
 
 ![ss7.png](https://upload-images.jianshu.io/upload_images/1975227-464f2992c6db74a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/elSLXspd7YA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 本文为转载，出处 https://www.cnbanwagong.com/6.html

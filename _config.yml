@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 菅瑞霖'Blog
-subtitle: 菅瑞霖的个人博客
+title: Brigitte Jian'Blog
+subtitle: Brigitte Jian的个人博客
 description: 移动开发技术分享博客 
 keywords:
 email: moruoyiming123@gmail.com
-author: Ruilin Jian
+author: Brigitte Jian
 language: zh-CN
 timezone:
 
@@ -74,7 +74,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: icarus
+theme: amazing
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
