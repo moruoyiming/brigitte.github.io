@@ -1,5 +1,5 @@
 ---
-title: Android 经典蓝牙通讯传输Demo
+title: Android 基础知识总结
 thumbnail: /gallery/thumbnails/sculpture.jpg
 categories: 
 - Android基础
