@@ -37,6 +37,7 @@ Instagram: [jianzeyicong](https://www.instagram.com/jianzeyicong/?hl=en)
 
 ***更新日志：***
 
+--*2020.09.29：增加相册、视频功能*
 --*2020.09.18：增加AdSense广告*
 --*2020.08.22：改版部分显示，优化速度*
 --*2020.06.18：icarus3.0主题适配*
